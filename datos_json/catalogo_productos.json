@@ -1,0 +1,25 @@
+[ {
+  "id" : 101,
+  "nombre" : "Portatil Gaming",
+  "categoria" : "Informatica",
+  "precio" : 1049.99,
+  "etiquetas" : [ "electronica", "ordenadores", "gaming" ]
+}, {
+  "id" : 102,
+  "nombre" : "Raton Inalambrico",
+  "categoria" : "Accesorios",
+  "precio" : 29.95,
+  "etiquetas" : [ "perifericos", "inalambrico" ]
+}, {
+  "id" : 103,
+  "nombre" : "Teclado Mecanico RGB",
+  "categoria" : "Accesorios",
+  "precio" : 89.5,
+  "etiquetas" : [ "perifericos", "gaming", "teclados" ]
+}, {
+  "id" : 104,
+  "nombre" : "Monitor Curvo 34 Pulgadas",
+  "categoria" : "Monitores",
+  "precio" : 389.0,
+  "etiquetas" : [ "ultrawide", "pantallas", "oficina" ]
+} ]

@@ -1,0 +1,13 @@
+[ {
+  "id" : 101,
+  "nombre" : "Portatil Gaming",
+  "categoria" : "Informatica",
+  "precio" : 1199.99,
+  "stock" : 15
+}, {
+  "id" : 103,
+  "nombre" : "Monitor 27 Pulgadas",
+  "categoria" : "Monitores",
+  "precio" : 195.08,
+  "stock" : 10
+} ]
